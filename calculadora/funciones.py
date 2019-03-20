@@ -29,6 +29,15 @@ def resta(a, b):
 
     return a - b
 
+def division(a, b):
+    """Divide a entre b
+    
+    Args:
+        a (Número): Dividendo de la divisón
+        b (Número): Divisor de la divisón
+    """
+
+    return a / b
 
 def raices(funcion):
     """Calcula la raíz de la función en base a x

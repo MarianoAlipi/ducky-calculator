@@ -9,6 +9,7 @@ def main():
     funciones = (
         fn.suma,
         fn.resta,
+        fn.division,
         fn.raices,
         fn.integral_definida,
     )
